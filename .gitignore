@@ -1,0 +1,9 @@
+node_modules
+dist
+.env
+.env.local
+*.log
+
+# ressources d'origine (vidéo de référence, photos brutes) : non publiées
+img/
+.claude/
